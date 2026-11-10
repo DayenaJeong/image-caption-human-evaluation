@@ -5,7 +5,7 @@
   if (!Array.isArray(items) || !items.length || !bundle) throw new Error("Item manifest missing");
   const key = `image-caption-audit-v1-${bundle}`;
   const choices = {q1: ["Yes", "No", "Unclear"], q2: ["Yes", "No", "Not applicable", "Unclear"], q3: ["Yes", "No", "Unclear"]};
-  const choiceLabels = {"Yes": "Yes / 예", "No": "No / 아니요", "Unclear": "Unclear / 판단 어려움", "Not applicable": "Not applicable / 해당 없음"};
+  const choiceLabels = {"Yes": "맞아요 / Yes", "No": "아니에요 / No", "Unclear": "판단하기 어려워요 / Unclear", "Not applicable": "해당 없어요 / Not applicable"};
   const $ = id => document.getElementById(id);
   const ids = new Set(items.map(x => x.item_id));
   if (ids.size !== items.length) throw new Error("Duplicate item ID");
@@ -35,7 +35,7 @@
     const ready = count === items.length;
     $("export-json").disabled = !ready;
     $("export-csv").disabled = !ready;
-    $("next").textContent = state.cursor === items.length - 1 ? "Save final item / 마지막 항목 저장" : "Save & next / 저장 후 다음";
+    $("next").textContent = state.cursor === items.length - 1 ? "마지막 답변 저장 / Save final item" : "저장 후 다음 / Save & next";
   }
   function makeOptions(question) {
     const target = $(`${question}-options`);
@@ -74,11 +74,11 @@
   $("previous").addEventListener("click", () => { if (state.cursor > 0) { state.cursor--; persist(); render(); } });
   $("next").addEventListener("click", () => {
     if (!complete(state.answers[items[state.cursor].item_id])) {
-      $("message").textContent = "Answer all three questions before continuing. / 계속하려면 세 질문 모두 답하세요.";
+      $("message").textContent = "세 질문에 모두 답한 뒤 다음으로 넘어가 주세요. / Answer all three questions before continuing.";
       return;
     }
     if (state.cursor < items.length - 1) { state.cursor++; persist(); render(); }
-    else { persist(); updateProgress(); $("message").textContent = "All items complete. Export both files below. / 모든 항목을 완료했습니다. 아래에서 결과를 저장하세요."; }
+    else { persist(); updateProgress(); $("message").textContent = "모두 끝났습니다! 아래에서 JSON과 CSV를 둘 다 내려받아 연구 담당자에게 전달해 주세요. / All items complete. Download both JSON and CSV and return them to the coordinator."; }
   });
   function exportRows() {
     if (completedCount() !== items.length) throw new Error("All items must be complete before export");

@@ -29,6 +29,16 @@ figcaption { margin-top: 6px; font-weight: 600; }
 fieldset { border: 0; padding: 18px 0 17px; border-bottom: 1px solid #e1e5e8; margin: 0; }
 legend { padding: 0; font-weight: 600; line-height: 1.4; }
 .hint { margin: 6px 0 10px; }
+.steps { padding-left: 24px; line-height: 1.7; }
+.steps li, .guide li { margin: 10px 0; }
+.callout { padding: 12px 16px; background: #f1f5f8; border-left: 3px solid #284b68; }
+.guide { margin: 16px 0; padding: 12px 16px; border: 1px solid #d8dde1; border-radius: 6px; line-height: 1.6; }
+.guide summary { cursor: pointer; font-weight: 600; }
+.guide p:last-child { margin-bottom: 0; }
+.view-hint { text-align: center; font-size: 14px; color: #45525d; margin: 14px 0 0; }
+[lang=en].hint { font-size: 13px; }
+.translation { margin: 6px 0 10px; font-size: 13px; color: #5b6670; }
+.translation summary { cursor: pointer; }
 .options { display: flex; gap: 18px; flex-wrap: wrap; }
 .options label { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; min-height: 36px; }
 input[type=radio] { accent-color: #284b68; width: 18px; height: 18px; }
