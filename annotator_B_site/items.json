@@ -1,0 +1,2402 @@
+[
+  {
+    "item_id": "item_0001",
+    "image_1": "images/p011_1.png",
+    "image_2": "images/p011_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0002",
+    "image_1": "images/p075_1.png",
+    "image_2": "images/p075_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0003",
+    "image_1": "images/p033_1.png",
+    "image_2": "images/p033_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0004",
+    "image_1": "images/p004_1.png",
+    "image_2": "images/p004_2.png",
+    "caption": "a row of villas is removed in the woods"
+  },
+  {
+    "item_id": "item_0005",
+    "image_1": "images/p090_1.png",
+    "image_2": "images/p090_2.png",
+    "caption": "a house is built at the bottom right corner of the scene."
+  },
+  {
+    "item_id": "item_0006",
+    "image_1": "images/p065_1.png",
+    "image_2": "images/p065_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0007",
+    "image_1": "images/p057_1.png",
+    "image_2": "images/p057_2.png",
+    "caption": "some buildings disappear on the bareland"
+  },
+  {
+    "item_id": "item_0008",
+    "image_1": "images/p072_1.png",
+    "image_2": "images/p072_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0009",
+    "image_1": "images/p093_1.png",
+    "image_2": "images/p093_2.png",
+    "caption": "a building appears on the bareland"
+  },
+  {
+    "item_id": "item_0010",
+    "image_1": "images/p078_1.png",
+    "image_2": "images/p078_2.png",
+    "caption": "a building disappears"
+  },
+  {
+    "item_id": "item_0011",
+    "image_1": "images/p021_1.png",
+    "image_2": "images/p021_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0012",
+    "image_1": "images/p064_1.png",
+    "image_2": "images/p064_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0013",
+    "image_1": "images/p019_1.png",
+    "image_2": "images/p019_2.png",
+    "caption": "some houses are removed at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0014",
+    "image_1": "images/p012_1.png",
+    "image_2": "images/p012_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0015",
+    "image_1": "images/p088_1.png",
+    "image_2": "images/p088_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0016",
+    "image_1": "images/p015_1.png",
+    "image_2": "images/p015_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0017",
+    "image_1": "images/p048_1.png",
+    "image_2": "images/p048_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0018",
+    "image_1": "images/p066_1.png",
+    "image_2": "images/p066_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0019",
+    "image_1": "images/p005_1.png",
+    "image_2": "images/p005_2.png",
+    "caption": "a road disappears in the bareland on the lower-right."
+  },
+  {
+    "item_id": "item_0020",
+    "image_1": "images/p014_1.png",
+    "image_2": "images/p014_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0021",
+    "image_1": "images/p037_1.png",
+    "image_2": "images/p037_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0022",
+    "image_1": "images/p082_1.png",
+    "image_2": "images/p082_2.png",
+    "caption": "some houses are removed at the top corner of the scene."
+  },
+  {
+    "item_id": "item_0023",
+    "image_1": "images/p060_1.png",
+    "image_2": "images/p060_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0024",
+    "image_1": "images/p010_1.png",
+    "image_2": "images/p010_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0025",
+    "image_1": "images/p042_1.png",
+    "image_2": "images/p042_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0026",
+    "image_1": "images/p022_1.png",
+    "image_2": "images/p022_2.png",
+    "caption": "some houses are removed on the bareland along the road."
+  },
+  {
+    "item_id": "item_0027",
+    "image_1": "images/p011_1.png",
+    "image_2": "images/p011_2.png",
+    "caption": "some houses are removed"
+  },
+  {
+    "item_id": "item_0028",
+    "image_1": "images/p042_1.png",
+    "image_2": "images/p042_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0029",
+    "image_1": "images/p037_1.png",
+    "image_2": "images/p037_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0030",
+    "image_1": "images/p042_1.png",
+    "image_2": "images/p042_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0031",
+    "image_1": "images/p096_1.png",
+    "image_2": "images/p096_2.png",
+    "caption": "some buildings are built in the open space"
+  },
+  {
+    "item_id": "item_0032",
+    "image_1": "images/p054_1.png",
+    "image_2": "images/p054_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0033",
+    "image_1": "images/p096_1.png",
+    "image_2": "images/p096_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0034",
+    "image_1": "images/p099_1.png",
+    "image_2": "images/p099_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0035",
+    "image_1": "images/p007_1.png",
+    "image_2": "images/p007_2.png",
+    "caption": "a road with many houses around are removed on the bareland"
+  },
+  {
+    "item_id": "item_0036",
+    "image_1": "images/p016_1.png",
+    "image_2": "images/p016_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0037",
+    "image_1": "images/p051_1.png",
+    "image_2": "images/p051_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0038",
+    "image_1": "images/p069_1.png",
+    "image_2": "images/p069_2.png",
+    "caption": "some buildings appear in the bareland"
+  },
+  {
+    "item_id": "item_0039",
+    "image_1": "images/p077_1.png",
+    "image_2": "images/p077_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0040",
+    "image_1": "images/p059_1.png",
+    "image_2": "images/p059_2.png",
+    "caption": "two rows of houses are removed on both sides of the road"
+  },
+  {
+    "item_id": "item_0041",
+    "image_1": "images/p024_1.png",
+    "image_2": "images/p024_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0042",
+    "image_1": "images/p100_1.png",
+    "image_2": "images/p100_2.png",
+    "caption": "many houses are removed along the road in the desert"
+  },
+  {
+    "item_id": "item_0043",
+    "image_1": "images/p019_1.png",
+    "image_2": "images/p019_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0044",
+    "image_1": "images/p014_1.png",
+    "image_2": "images/p014_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0045",
+    "image_1": "images/p041_1.png",
+    "image_2": "images/p041_2.png",
+    "caption": "a road disappears in the forest"
+  },
+  {
+    "item_id": "item_0046",
+    "image_1": "images/p067_1.png",
+    "image_2": "images/p067_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0047",
+    "image_1": "images/p029_1.png",
+    "image_2": "images/p029_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0048",
+    "image_1": "images/p016_1.png",
+    "image_2": "images/p016_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0049",
+    "image_1": "images/p099_1.png",
+    "image_2": "images/p099_2.png",
+    "caption": "some buildings appear in the woods"
+  },
+  {
+    "item_id": "item_0050",
+    "image_1": "images/p083_1.png",
+    "image_2": "images/p083_2.png",
+    "caption": "a building with a road disappears in the bareland."
+  },
+  {
+    "item_id": "item_0051",
+    "image_1": "images/p073_1.png",
+    "image_2": "images/p073_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0052",
+    "image_1": "images/p042_1.png",
+    "image_2": "images/p042_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0053",
+    "image_1": "images/p063_1.png",
+    "image_2": "images/p063_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0054",
+    "image_1": "images/p017_1.png",
+    "image_2": "images/p017_2.png",
+    "caption": "a house is built in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0055",
+    "image_1": "images/p010_1.png",
+    "image_2": "images/p010_2.png",
+    "caption": "a house disappears in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0056",
+    "image_1": "images/p015_1.png",
+    "image_2": "images/p015_2.png",
+    "caption": "some roads disappear on the bareland."
+  },
+  {
+    "item_id": "item_0057",
+    "image_1": "images/p076_1.png",
+    "image_2": "images/p076_2.png",
+    "caption": "a house disappears in the upper left corner of the scene"
+  },
+  {
+    "item_id": "item_0058",
+    "image_1": "images/p012_1.png",
+    "image_2": "images/p012_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0059",
+    "image_1": "images/p062_1.png",
+    "image_2": "images/p062_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0060",
+    "image_1": "images/p071_1.png",
+    "image_2": "images/p071_2.png",
+    "caption": "many houses are removed at the corner of the road."
+  },
+  {
+    "item_id": "item_0061",
+    "image_1": "images/p090_1.png",
+    "image_2": "images/p090_2.png",
+    "caption": "some buildings are built on the bareland"
+  },
+  {
+    "item_id": "item_0062",
+    "image_1": "images/p064_1.png",
+    "image_2": "images/p064_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0063",
+    "image_1": "images/p050_1.png",
+    "image_2": "images/p050_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0064",
+    "image_1": "images/p091_1.png",
+    "image_2": "images/p091_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0065",
+    "image_1": "images/p003_1.png",
+    "image_2": "images/p003_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0066",
+    "image_1": "images/p095_1.png",
+    "image_2": "images/p095_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0067",
+    "image_1": "images/p034_1.png",
+    "image_2": "images/p034_2.png",
+    "caption": "a road with rows of houses is removed along the road"
+  },
+  {
+    "item_id": "item_0068",
+    "image_1": "images/p065_1.png",
+    "image_2": "images/p065_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0069",
+    "image_1": "images/p092_1.png",
+    "image_2": "images/p092_2.png",
+    "caption": "the two scenes seem identical"
+  },
+  {
+    "item_id": "item_0070",
+    "image_1": "images/p064_1.png",
+    "image_2": "images/p064_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0071",
+    "image_1": "images/p047_1.png",
+    "image_2": "images/p047_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0072",
+    "image_1": "images/p087_1.png",
+    "image_2": "images/p087_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0073",
+    "image_1": "images/p041_1.png",
+    "image_2": "images/p041_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0074",
+    "image_1": "images/p029_1.png",
+    "image_2": "images/p029_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0075",
+    "image_1": "images/p041_1.png",
+    "image_2": "images/p041_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0076",
+    "image_1": "images/p036_1.png",
+    "image_2": "images/p036_2.png",
+    "caption": "a road is built on the top side of the scene"
+  },
+  {
+    "item_id": "item_0077",
+    "image_1": "images/p018_1.png",
+    "image_2": "images/p018_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0078",
+    "image_1": "images/p068_1.png",
+    "image_2": "images/p068_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0079",
+    "image_1": "images/p045_1.png",
+    "image_2": "images/p045_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0080",
+    "image_1": "images/p005_1.png",
+    "image_2": "images/p005_2.png",
+    "caption": "a road disappears on the bareland"
+  },
+  {
+    "item_id": "item_0081",
+    "image_1": "images/p046_1.png",
+    "image_2": "images/p046_2.png",
+    "caption": "some buildings with parking lots are removed on the bareland"
+  },
+  {
+    "item_id": "item_0082",
+    "image_1": "images/p040_1.png",
+    "image_2": "images/p040_2.png",
+    "caption": "a row of houses is removed along the road"
+  },
+  {
+    "item_id": "item_0083",
+    "image_1": "images/p055_1.png",
+    "image_2": "images/p055_2.png",
+    "caption": "some roads disappear."
+  },
+  {
+    "item_id": "item_0084",
+    "image_1": "images/p003_1.png",
+    "image_2": "images/p003_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0085",
+    "image_1": "images/p071_1.png",
+    "image_2": "images/p071_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0086",
+    "image_1": "images/p017_1.png",
+    "image_2": "images/p017_2.png",
+    "caption": "a house is built in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0087",
+    "image_1": "images/p020_1.png",
+    "image_2": "images/p020_2.png",
+    "caption": "some houses are removed in the forest."
+  },
+  {
+    "item_id": "item_0088",
+    "image_1": "images/p008_1.png",
+    "image_2": "images/p008_2.png",
+    "caption": "two villas are removed in the woods"
+  },
+  {
+    "item_id": "item_0089",
+    "image_1": "images/p015_1.png",
+    "image_2": "images/p015_2.png",
+    "caption": "some trees have been removed"
+  },
+  {
+    "item_id": "item_0090",
+    "image_1": "images/p084_1.png",
+    "image_2": "images/p084_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0091",
+    "image_1": "images/p091_1.png",
+    "image_2": "images/p091_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0092",
+    "image_1": "images/p028_1.png",
+    "image_2": "images/p028_2.png",
+    "caption": "some houses are built on the right side of the scene."
+  },
+  {
+    "item_id": "item_0093",
+    "image_1": "images/p073_1.png",
+    "image_2": "images/p073_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0094",
+    "image_1": "images/p093_1.png",
+    "image_2": "images/p093_2.png",
+    "caption": "a building appears on the bareland"
+  },
+  {
+    "item_id": "item_0095",
+    "image_1": "images/p007_1.png",
+    "image_2": "images/p007_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0096",
+    "image_1": "images/p043_1.png",
+    "image_2": "images/p043_2.png",
+    "caption": "some houses are removed at the bottom right corner of the scene."
+  },
+  {
+    "item_id": "item_0097",
+    "image_1": "images/p037_1.png",
+    "image_2": "images/p037_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0098",
+    "image_1": "images/p015_1.png",
+    "image_2": "images/p015_2.png",
+    "caption": "some roads disappear in the desert"
+  },
+  {
+    "item_id": "item_0099",
+    "image_1": "images/p093_1.png",
+    "image_2": "images/p093_2.png",
+    "caption": "some houses are built at the top corner of the scene."
+  },
+  {
+    "item_id": "item_0100",
+    "image_1": "images/p041_1.png",
+    "image_2": "images/p041_2.png",
+    "caption": "a road disappears in the center of the scene."
+  },
+  {
+    "item_id": "item_0101",
+    "image_1": "images/p040_1.png",
+    "image_2": "images/p040_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0102",
+    "image_1": "images/p002_1.png",
+    "image_2": "images/p002_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0103",
+    "image_1": "images/p010_1.png",
+    "image_2": "images/p010_2.png",
+    "caption": "two houses are removed at the edge of the woods"
+  },
+  {
+    "item_id": "item_0104",
+    "image_1": "images/p089_1.png",
+    "image_2": "images/p089_2.png",
+    "caption": "some houses are removed at the bottom corner of the scene."
+  },
+  {
+    "item_id": "item_0105",
+    "image_1": "images/p058_1.png",
+    "image_2": "images/p058_2.png",
+    "caption": "a road is built at the top"
+  },
+  {
+    "item_id": "item_0106",
+    "image_1": "images/p033_1.png",
+    "image_2": "images/p033_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0107",
+    "image_1": "images/p022_1.png",
+    "image_2": "images/p022_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0108",
+    "image_1": "images/p077_1.png",
+    "image_2": "images/p077_2.png",
+    "caption": "a road with a road disappear on the left side of the scene"
+  },
+  {
+    "item_id": "item_0109",
+    "image_1": "images/p066_1.png",
+    "image_2": "images/p066_2.png",
+    "caption": "a small building disappears in the woods"
+  },
+  {
+    "item_id": "item_0110",
+    "image_1": "images/p051_1.png",
+    "image_2": "images/p051_2.png",
+    "caption": "rows of houses are removed along the road."
+  },
+  {
+    "item_id": "item_0111",
+    "image_1": "images/p077_1.png",
+    "image_2": "images/p077_2.png",
+    "caption": "some buildings are built at the top corner of the scene"
+  },
+  {
+    "item_id": "item_0112",
+    "image_1": "images/p025_1.png",
+    "image_2": "images/p025_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0113",
+    "image_1": "images/p010_1.png",
+    "image_2": "images/p010_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0114",
+    "image_1": "images/p094_1.png",
+    "image_2": "images/p094_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0115",
+    "image_1": "images/p038_1.png",
+    "image_2": "images/p038_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0116",
+    "image_1": "images/p094_1.png",
+    "image_2": "images/p094_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0117",
+    "image_1": "images/p026_1.png",
+    "image_2": "images/p026_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0118",
+    "image_1": "images/p028_1.png",
+    "image_2": "images/p028_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0119",
+    "image_1": "images/p032_1.png",
+    "image_2": "images/p032_2.png",
+    "caption": "a large building with a parking lot is removed in the open space."
+  },
+  {
+    "item_id": "item_0120",
+    "image_1": "images/p087_1.png",
+    "image_2": "images/p087_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0121",
+    "image_1": "images/p006_1.png",
+    "image_2": "images/p006_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0122",
+    "image_1": "images/p021_1.png",
+    "image_2": "images/p021_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0123",
+    "image_1": "images/p039_1.png",
+    "image_2": "images/p039_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0124",
+    "image_1": "images/p059_1.png",
+    "image_2": "images/p059_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0125",
+    "image_1": "images/p068_1.png",
+    "image_2": "images/p068_2.png",
+    "caption": "some houses are built along the road."
+  },
+  {
+    "item_id": "item_0126",
+    "image_1": "images/p076_1.png",
+    "image_2": "images/p076_2.png",
+    "caption": "a house disappears in the upper left corner of the scene."
+  },
+  {
+    "item_id": "item_0127",
+    "image_1": "images/p077_1.png",
+    "image_2": "images/p077_2.png",
+    "caption": "some buildings are removed at the bottom corner."
+  },
+  {
+    "item_id": "item_0128",
+    "image_1": "images/p032_1.png",
+    "image_2": "images/p032_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0129",
+    "image_1": "images/p025_1.png",
+    "image_2": "images/p025_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0130",
+    "image_1": "images/p097_1.png",
+    "image_2": "images/p097_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0131",
+    "image_1": "images/p054_1.png",
+    "image_2": "images/p054_2.png",
+    "caption": "a building disappears in the woods in the top right corner of the scene"
+  },
+  {
+    "item_id": "item_0132",
+    "image_1": "images/p069_1.png",
+    "image_2": "images/p069_2.png",
+    "caption": "some houses are removed in the woods along the road."
+  },
+  {
+    "item_id": "item_0133",
+    "image_1": "images/p098_1.png",
+    "image_2": "images/p098_2.png",
+    "caption": "many houses are removed along the roads in the open space"
+  },
+  {
+    "item_id": "item_0134",
+    "image_1": "images/p020_1.png",
+    "image_2": "images/p020_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0135",
+    "image_1": "images/p083_1.png",
+    "image_2": "images/p083_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0136",
+    "image_1": "images/p064_1.png",
+    "image_2": "images/p064_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0137",
+    "image_1": "images/p072_1.png",
+    "image_2": "images/p072_2.png",
+    "caption": "some houses are removed at the top right corner of the scene."
+  },
+  {
+    "item_id": "item_0138",
+    "image_1": "images/p085_1.png",
+    "image_2": "images/p085_2.png",
+    "caption": "a house is removed in the upper left corner of the scene."
+  },
+  {
+    "item_id": "item_0139",
+    "image_1": "images/p001_1.png",
+    "image_2": "images/p001_2.png",
+    "caption": "a large building with a parking lot is removed in the center of the scene."
+  },
+  {
+    "item_id": "item_0140",
+    "image_1": "images/p065_1.png",
+    "image_2": "images/p065_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0141",
+    "image_1": "images/p014_1.png",
+    "image_2": "images/p014_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0142",
+    "image_1": "images/p083_1.png",
+    "image_2": "images/p083_2.png",
+    "caption": "a building is built on the left side."
+  },
+  {
+    "item_id": "item_0143",
+    "image_1": "images/p095_1.png",
+    "image_2": "images/p095_2.png",
+    "caption": "some houses are removed in the woods"
+  },
+  {
+    "item_id": "item_0144",
+    "image_1": "images/p063_1.png",
+    "image_2": "images/p063_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0145",
+    "image_1": "images/p070_1.png",
+    "image_2": "images/p070_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0146",
+    "image_1": "images/p014_1.png",
+    "image_2": "images/p014_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0147",
+    "image_1": "images/p052_1.png",
+    "image_2": "images/p052_2.png",
+    "caption": "some buildings are removed and a road is built"
+  },
+  {
+    "item_id": "item_0148",
+    "image_1": "images/p024_1.png",
+    "image_2": "images/p024_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0149",
+    "image_1": "images/p044_1.png",
+    "image_2": "images/p044_2.png",
+    "caption": "a road is built in the middle of the scene"
+  },
+  {
+    "item_id": "item_0150",
+    "image_1": "images/p071_1.png",
+    "image_2": "images/p071_2.png",
+    "caption": "a building appears at the bottom right corner of the scene"
+  },
+  {
+    "item_id": "item_0151",
+    "image_1": "images/p061_1.png",
+    "image_2": "images/p061_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0152",
+    "image_1": "images/p090_1.png",
+    "image_2": "images/p090_2.png",
+    "caption": "a row of houses is removed at the top"
+  },
+  {
+    "item_id": "item_0153",
+    "image_1": "images/p027_1.png",
+    "image_2": "images/p027_2.png",
+    "caption": "a building with a parking lot disappears in the bareland on the top."
+  },
+  {
+    "item_id": "item_0154",
+    "image_1": "images/p017_1.png",
+    "image_2": "images/p017_2.png",
+    "caption": "some houses are built on the bareland"
+  },
+  {
+    "item_id": "item_0155",
+    "image_1": "images/p080_1.png",
+    "image_2": "images/p080_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0156",
+    "image_1": "images/p069_1.png",
+    "image_2": "images/p069_2.png",
+    "caption": "some buildings are removed in the woods"
+  },
+  {
+    "item_id": "item_0157",
+    "image_1": "images/p034_1.png",
+    "image_2": "images/p034_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0158",
+    "image_1": "images/p056_1.png",
+    "image_2": "images/p056_2.png",
+    "caption": "a road disappears in the bareland."
+  },
+  {
+    "item_id": "item_0159",
+    "image_1": "images/p060_1.png",
+    "image_2": "images/p060_2.png",
+    "caption": "a building is built at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0160",
+    "image_1": "images/p031_1.png",
+    "image_2": "images/p031_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0161",
+    "image_1": "images/p082_1.png",
+    "image_2": "images/p082_2.png",
+    "caption": "a road with a road disappear on the top side of the scene"
+  },
+  {
+    "item_id": "item_0162",
+    "image_1": "images/p059_1.png",
+    "image_2": "images/p059_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0163",
+    "image_1": "images/p058_1.png",
+    "image_2": "images/p058_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0164",
+    "image_1": "images/p056_1.png",
+    "image_2": "images/p056_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0165",
+    "image_1": "images/p100_1.png",
+    "image_2": "images/p100_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0166",
+    "image_1": "images/p018_1.png",
+    "image_2": "images/p018_2.png",
+    "caption": "many houses are removed along the roads"
+  },
+  {
+    "item_id": "item_0167",
+    "image_1": "images/p086_1.png",
+    "image_2": "images/p086_2.png",
+    "caption": "a building is built at the top"
+  },
+  {
+    "item_id": "item_0168",
+    "image_1": "images/p094_1.png",
+    "image_2": "images/p094_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0169",
+    "image_1": "images/p006_1.png",
+    "image_2": "images/p006_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0170",
+    "image_1": "images/p095_1.png",
+    "image_2": "images/p095_2.png",
+    "caption": "some houses are removed in the woods along the road."
+  },
+  {
+    "item_id": "item_0171",
+    "image_1": "images/p032_1.png",
+    "image_2": "images/p032_2.png",
+    "caption": "a large building with a parking lot disappears in the open space"
+  },
+  {
+    "item_id": "item_0172",
+    "image_1": "images/p009_1.png",
+    "image_2": "images/p009_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0173",
+    "image_1": "images/p029_1.png",
+    "image_2": "images/p029_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0174",
+    "image_1": "images/p100_1.png",
+    "image_2": "images/p100_2.png",
+    "caption": "some houses are removed"
+  },
+  {
+    "item_id": "item_0175",
+    "image_1": "images/p052_1.png",
+    "image_2": "images/p052_2.png",
+    "caption": "some houses are built on the left side of the scene."
+  },
+  {
+    "item_id": "item_0176",
+    "image_1": "images/p047_1.png",
+    "image_2": "images/p047_2.png",
+    "caption": "a building is built at the bottom left corner of the scene"
+  },
+  {
+    "item_id": "item_0177",
+    "image_1": "images/p011_1.png",
+    "image_2": "images/p011_2.png",
+    "caption": "some houses are removed"
+  },
+  {
+    "item_id": "item_0178",
+    "image_1": "images/p078_1.png",
+    "image_2": "images/p078_2.png",
+    "caption": "a building disappears"
+  },
+  {
+    "item_id": "item_0179",
+    "image_1": "images/p044_1.png",
+    "image_2": "images/p044_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0180",
+    "image_1": "images/p100_1.png",
+    "image_2": "images/p100_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0181",
+    "image_1": "images/p009_1.png",
+    "image_2": "images/p009_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0182",
+    "image_1": "images/p008_1.png",
+    "image_2": "images/p008_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0183",
+    "image_1": "images/p018_1.png",
+    "image_2": "images/p018_2.png",
+    "caption": "a building is built at the top corner of the scene"
+  },
+  {
+    "item_id": "item_0184",
+    "image_1": "images/p004_1.png",
+    "image_2": "images/p004_2.png",
+    "caption": "a house has been built in the corner of the scene."
+  },
+  {
+    "item_id": "item_0185",
+    "image_1": "images/p057_1.png",
+    "image_2": "images/p057_2.png",
+    "caption": "a building is built at the bottom corner."
+  },
+  {
+    "item_id": "item_0186",
+    "image_1": "images/p055_1.png",
+    "image_2": "images/p055_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0187",
+    "image_1": "images/p030_1.png",
+    "image_2": "images/p030_2.png",
+    "caption": "some houses are built at the top corner."
+  },
+  {
+    "item_id": "item_0188",
+    "image_1": "images/p093_1.png",
+    "image_2": "images/p093_2.png",
+    "caption": "some houses are built at the top corner of the scene."
+  },
+  {
+    "item_id": "item_0189",
+    "image_1": "images/p052_1.png",
+    "image_2": "images/p052_2.png",
+    "caption": "a road with many houses disappears at the top right corner of the scene."
+  },
+  {
+    "item_id": "item_0190",
+    "image_1": "images/p049_1.png",
+    "image_2": "images/p049_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0191",
+    "image_1": "images/p009_1.png",
+    "image_2": "images/p009_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0192",
+    "image_1": "images/p027_1.png",
+    "image_2": "images/p027_2.png",
+    "caption": "a road is built on the left side of the scene"
+  },
+  {
+    "item_id": "item_0193",
+    "image_1": "images/p055_1.png",
+    "image_2": "images/p055_2.png",
+    "caption": "some roads disappear in the desert"
+  },
+  {
+    "item_id": "item_0194",
+    "image_1": "images/p074_1.png",
+    "image_2": "images/p074_2.png",
+    "caption": "a building is built at the bottom corner."
+  },
+  {
+    "item_id": "item_0195",
+    "image_1": "images/p075_1.png",
+    "image_2": "images/p075_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0196",
+    "image_1": "images/p074_1.png",
+    "image_2": "images/p074_2.png",
+    "caption": "many houses are removed along the road in the desert"
+  },
+  {
+    "item_id": "item_0197",
+    "image_1": "images/p053_1.png",
+    "image_2": "images/p053_2.png",
+    "caption": "two houses disappear in the woods in the top left corner of the scene"
+  },
+  {
+    "item_id": "item_0198",
+    "image_1": "images/p088_1.png",
+    "image_2": "images/p088_2.png",
+    "caption": "a villa is removed in the woods in the top left corner."
+  },
+  {
+    "item_id": "item_0199",
+    "image_1": "images/p035_1.png",
+    "image_2": "images/p035_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0200",
+    "image_1": "images/p059_1.png",
+    "image_2": "images/p059_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0201",
+    "image_1": "images/p053_1.png",
+    "image_2": "images/p053_2.png",
+    "caption": "a house disappears in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0202",
+    "image_1": "images/p013_1.png",
+    "image_2": "images/p013_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0203",
+    "image_1": "images/p024_1.png",
+    "image_2": "images/p024_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0204",
+    "image_1": "images/p043_1.png",
+    "image_2": "images/p043_2.png",
+    "caption": "some houses are built on the left side of the scene."
+  },
+  {
+    "item_id": "item_0205",
+    "image_1": "images/p063_1.png",
+    "image_2": "images/p063_2.png",
+    "caption": "a house is built in the upper left corner of the scene."
+  },
+  {
+    "item_id": "item_0206",
+    "image_1": "images/p030_1.png",
+    "image_2": "images/p030_2.png",
+    "caption": "many houses are removed on the bareland along the road"
+  },
+  {
+    "item_id": "item_0207",
+    "image_1": "images/p005_1.png",
+    "image_2": "images/p005_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0208",
+    "image_1": "images/p090_1.png",
+    "image_2": "images/p090_2.png",
+    "caption": "some houses are removed at the top corner of the scene."
+  },
+  {
+    "item_id": "item_0209",
+    "image_1": "images/p080_1.png",
+    "image_2": "images/p080_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0210",
+    "image_1": "images/p082_1.png",
+    "image_2": "images/p082_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0211",
+    "image_1": "images/p035_1.png",
+    "image_2": "images/p035_2.png",
+    "caption": "some houses are removed at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0212",
+    "image_1": "images/p050_1.png",
+    "image_2": "images/p050_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0213",
+    "image_1": "images/p022_1.png",
+    "image_2": "images/p022_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0214",
+    "image_1": "images/p035_1.png",
+    "image_2": "images/p035_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0215",
+    "image_1": "images/p070_1.png",
+    "image_2": "images/p070_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0216",
+    "image_1": "images/p047_1.png",
+    "image_2": "images/p047_2.png",
+    "caption": "a row of houses is removed at the top corner of the scene"
+  },
+  {
+    "item_id": "item_0217",
+    "image_1": "images/p016_1.png",
+    "image_2": "images/p016_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0218",
+    "image_1": "images/p026_1.png",
+    "image_2": "images/p026_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0219",
+    "image_1": "images/p081_1.png",
+    "image_2": "images/p081_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0220",
+    "image_1": "images/p067_1.png",
+    "image_2": "images/p067_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0221",
+    "image_1": "images/p098_1.png",
+    "image_2": "images/p098_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0222",
+    "image_1": "images/p023_1.png",
+    "image_2": "images/p023_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0223",
+    "image_1": "images/p080_1.png",
+    "image_2": "images/p080_2.png",
+    "caption": "two houses are removed in the upper left corner of the scene"
+  },
+  {
+    "item_id": "item_0224",
+    "image_1": "images/p036_1.png",
+    "image_2": "images/p036_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0225",
+    "image_1": "images/p057_1.png",
+    "image_2": "images/p057_2.png",
+    "caption": "a building with a parking lot is removed at the top corner."
+  },
+  {
+    "item_id": "item_0226",
+    "image_1": "images/p079_1.png",
+    "image_2": "images/p079_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0227",
+    "image_1": "images/p027_1.png",
+    "image_2": "images/p027_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0228",
+    "image_1": "images/p035_1.png",
+    "image_2": "images/p035_2.png",
+    "caption": "some houses are removed at the bottom corner of the scene."
+  },
+  {
+    "item_id": "item_0229",
+    "image_1": "images/p051_1.png",
+    "image_2": "images/p051_2.png",
+    "caption": "two rows of houses are removed along the roads"
+  },
+  {
+    "item_id": "item_0230",
+    "image_1": "images/p022_1.png",
+    "image_2": "images/p022_2.png",
+    "caption": "more houses are removed along the road"
+  },
+  {
+    "item_id": "item_0231",
+    "image_1": "images/p084_1.png",
+    "image_2": "images/p084_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0232",
+    "image_1": "images/p039_1.png",
+    "image_2": "images/p039_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0233",
+    "image_1": "images/p040_1.png",
+    "image_2": "images/p040_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0234",
+    "image_1": "images/p049_1.png",
+    "image_2": "images/p049_2.png",
+    "caption": "some buildings are removed on the bareland"
+  },
+  {
+    "item_id": "item_0235",
+    "image_1": "images/p031_1.png",
+    "image_2": "images/p031_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0236",
+    "image_1": "images/p094_1.png",
+    "image_2": "images/p094_2.png",
+    "caption": "the two scenes seem identical"
+  },
+  {
+    "item_id": "item_0237",
+    "image_1": "images/p019_1.png",
+    "image_2": "images/p019_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0238",
+    "image_1": "images/p025_1.png",
+    "image_2": "images/p025_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0239",
+    "image_1": "images/p007_1.png",
+    "image_2": "images/p007_2.png",
+    "caption": "a road has been constructed beside the road on the bareland"
+  },
+  {
+    "item_id": "item_0240",
+    "image_1": "images/p038_1.png",
+    "image_2": "images/p038_2.png",
+    "caption": "a house is built in the upper left corner of the scene."
+  },
+  {
+    "item_id": "item_0241",
+    "image_1": "images/p078_1.png",
+    "image_2": "images/p078_2.png",
+    "caption": "a road with many houses disappears at the top right corner of the scene."
+  },
+  {
+    "item_id": "item_0242",
+    "image_1": "images/p081_1.png",
+    "image_2": "images/p081_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0243",
+    "image_1": "images/p003_1.png",
+    "image_2": "images/p003_2.png",
+    "caption": "a building disappears in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0244",
+    "image_1": "images/p052_1.png",
+    "image_2": "images/p052_2.png",
+    "caption": "some buildings are removed and a road is built"
+  },
+  {
+    "item_id": "item_0245",
+    "image_1": "images/p056_1.png",
+    "image_2": "images/p056_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0246",
+    "image_1": "images/p066_1.png",
+    "image_2": "images/p066_2.png",
+    "caption": "a building disappears in the top left corner of the scene."
+  },
+  {
+    "item_id": "item_0247",
+    "image_1": "images/p028_1.png",
+    "image_2": "images/p028_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0248",
+    "image_1": "images/p095_1.png",
+    "image_2": "images/p095_2.png",
+    "caption": "two buildings appear in the woods"
+  },
+  {
+    "item_id": "item_0249",
+    "image_1": "images/p036_1.png",
+    "image_2": "images/p036_2.png",
+    "caption": "a road with many houses disappears on the right side of the scene"
+  },
+  {
+    "item_id": "item_0250",
+    "image_1": "images/p012_1.png",
+    "image_2": "images/p012_2.png",
+    "caption": "massive houses along the roads disappear in the desert"
+  },
+  {
+    "item_id": "item_0251",
+    "image_1": "images/p072_1.png",
+    "image_2": "images/p072_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0252",
+    "image_1": "images/p045_1.png",
+    "image_2": "images/p045_2.png",
+    "caption": "many houses are removed along the roads"
+  },
+  {
+    "item_id": "item_0253",
+    "image_1": "images/p020_1.png",
+    "image_2": "images/p020_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0254",
+    "image_1": "images/p098_1.png",
+    "image_2": "images/p098_2.png",
+    "caption": "a building appears at the bottom right corner of the scene"
+  },
+  {
+    "item_id": "item_0255",
+    "image_1": "images/p050_1.png",
+    "image_2": "images/p050_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0256",
+    "image_1": "images/p066_1.png",
+    "image_2": "images/p066_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0257",
+    "image_1": "images/p031_1.png",
+    "image_2": "images/p031_2.png",
+    "caption": "some roads are removed on the bareland"
+  },
+  {
+    "item_id": "item_0258",
+    "image_1": "images/p088_1.png",
+    "image_2": "images/p088_2.png",
+    "caption": "a building appears in the woods in the lower-right corner of the scene."
+  },
+  {
+    "item_id": "item_0259",
+    "image_1": "images/p048_1.png",
+    "image_2": "images/p048_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0260",
+    "image_1": "images/p018_1.png",
+    "image_2": "images/p018_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0261",
+    "image_1": "images/p039_1.png",
+    "image_2": "images/p039_2.png",
+    "caption": "a house disappears in the upper left corner of the scene"
+  },
+  {
+    "item_id": "item_0262",
+    "image_1": "images/p084_1.png",
+    "image_2": "images/p084_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0263",
+    "image_1": "images/p006_1.png",
+    "image_2": "images/p006_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0264",
+    "image_1": "images/p054_1.png",
+    "image_2": "images/p054_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0265",
+    "image_1": "images/p045_1.png",
+    "image_2": "images/p045_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0266",
+    "image_1": "images/p086_1.png",
+    "image_2": "images/p086_2.png",
+    "caption": "two buildings with a parking lot disappear on the bareland"
+  },
+  {
+    "item_id": "item_0267",
+    "image_1": "images/p070_1.png",
+    "image_2": "images/p070_2.png",
+    "caption": "some houses are removed in the woods along the road"
+  },
+  {
+    "item_id": "item_0268",
+    "image_1": "images/p002_1.png",
+    "image_2": "images/p002_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0269",
+    "image_1": "images/p062_1.png",
+    "image_2": "images/p062_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0270",
+    "image_1": "images/p021_1.png",
+    "image_2": "images/p021_2.png",
+    "caption": "a building disappears on the bareland"
+  },
+  {
+    "item_id": "item_0271",
+    "image_1": "images/p091_1.png",
+    "image_2": "images/p091_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0272",
+    "image_1": "images/p097_1.png",
+    "image_2": "images/p097_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0273",
+    "image_1": "images/p033_1.png",
+    "image_2": "images/p033_2.png",
+    "caption": "some buildings are removed in the woods along the road."
+  },
+  {
+    "item_id": "item_0274",
+    "image_1": "images/p013_1.png",
+    "image_2": "images/p013_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0275",
+    "image_1": "images/p005_1.png",
+    "image_2": "images/p005_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0276",
+    "image_1": "images/p020_1.png",
+    "image_2": "images/p020_2.png",
+    "caption": "some houses are removed at the edge of the woods"
+  },
+  {
+    "item_id": "item_0277",
+    "image_1": "images/p023_1.png",
+    "image_2": "images/p023_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0278",
+    "image_1": "images/p086_1.png",
+    "image_2": "images/p086_2.png",
+    "caption": "a large building with a parking lot is removed in the open space."
+  },
+  {
+    "item_id": "item_0279",
+    "image_1": "images/p092_1.png",
+    "image_2": "images/p092_2.png",
+    "caption": "some houses are built on the bareland along the road."
+  },
+  {
+    "item_id": "item_0280",
+    "image_1": "images/p004_1.png",
+    "image_2": "images/p004_2.png",
+    "caption": "two houses disappear in the forest."
+  },
+  {
+    "item_id": "item_0281",
+    "image_1": "images/p058_1.png",
+    "image_2": "images/p058_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0282",
+    "image_1": "images/p032_1.png",
+    "image_2": "images/p032_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0283",
+    "image_1": "images/p089_1.png",
+    "image_2": "images/p089_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0284",
+    "image_1": "images/p092_1.png",
+    "image_2": "images/p092_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0285",
+    "image_1": "images/p028_1.png",
+    "image_2": "images/p028_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0286",
+    "image_1": "images/p056_1.png",
+    "image_2": "images/p056_2.png",
+    "caption": "a road disappears in the bareland"
+  },
+  {
+    "item_id": "item_0287",
+    "image_1": "images/p033_1.png",
+    "image_2": "images/p033_2.png",
+    "caption": "some buildings are removed in the woods along the road"
+  },
+  {
+    "item_id": "item_0288",
+    "image_1": "images/p043_1.png",
+    "image_2": "images/p043_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0289",
+    "image_1": "images/p044_1.png",
+    "image_2": "images/p044_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0290",
+    "image_1": "images/p088_1.png",
+    "image_2": "images/p088_2.png",
+    "caption": "some houses are removed in the top right corner of the scene"
+  },
+  {
+    "item_id": "item_0291",
+    "image_1": "images/p043_1.png",
+    "image_2": "images/p043_2.png",
+    "caption": "some houses are built at the top left corner of the scene"
+  },
+  {
+    "item_id": "item_0292",
+    "image_1": "images/p049_1.png",
+    "image_2": "images/p049_2.png",
+    "caption": "a building is built beside the road on the bareland."
+  },
+  {
+    "item_id": "item_0293",
+    "image_1": "images/p011_1.png",
+    "image_2": "images/p011_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0294",
+    "image_1": "images/p013_1.png",
+    "image_2": "images/p013_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0295",
+    "image_1": "images/p058_1.png",
+    "image_2": "images/p058_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0296",
+    "image_1": "images/p081_1.png",
+    "image_2": "images/p081_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0297",
+    "image_1": "images/p001_1.png",
+    "image_2": "images/p001_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0298",
+    "image_1": "images/p006_1.png",
+    "image_2": "images/p006_2.png",
+    "caption": "a building is removed at the top corner."
+  },
+  {
+    "item_id": "item_0299",
+    "image_1": "images/p030_1.png",
+    "image_2": "images/p030_2.png",
+    "caption": "some houses are built at the top"
+  },
+  {
+    "item_id": "item_0300",
+    "image_1": "images/p079_1.png",
+    "image_2": "images/p079_2.png",
+    "caption": "a building is built at the bottom right corner of the scene"
+  },
+  {
+    "item_id": "item_0301",
+    "image_1": "images/p061_1.png",
+    "image_2": "images/p061_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0302",
+    "image_1": "images/p084_1.png",
+    "image_2": "images/p084_2.png",
+    "caption": "some buildings are removed"
+  },
+  {
+    "item_id": "item_0303",
+    "image_1": "images/p089_1.png",
+    "image_2": "images/p089_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0304",
+    "image_1": "images/p001_1.png",
+    "image_2": "images/p001_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0305",
+    "image_1": "images/p083_1.png",
+    "image_2": "images/p083_2.png",
+    "caption": "a road with a parking lot disappear on the bareland"
+  },
+  {
+    "item_id": "item_0306",
+    "image_1": "images/p037_1.png",
+    "image_2": "images/p037_2.png",
+    "caption": "some buildings appear in the woods"
+  },
+  {
+    "item_id": "item_0307",
+    "image_1": "images/p089_1.png",
+    "image_2": "images/p089_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0308",
+    "image_1": "images/p074_1.png",
+    "image_2": "images/p074_2.png",
+    "caption": "a road with many houses around is removed at the top corner."
+  },
+  {
+    "item_id": "item_0309",
+    "image_1": "images/p009_1.png",
+    "image_2": "images/p009_2.png",
+    "caption": "a road with many houses is removed at the top corner of the scene."
+  },
+  {
+    "item_id": "item_0310",
+    "image_1": "images/p074_1.png",
+    "image_2": "images/p074_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0311",
+    "image_1": "images/p007_1.png",
+    "image_2": "images/p007_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0312",
+    "image_1": "images/p051_1.png",
+    "image_2": "images/p051_2.png",
+    "caption": "some houses are built at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0313",
+    "image_1": "images/p076_1.png",
+    "image_2": "images/p076_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0314",
+    "image_1": "images/p078_1.png",
+    "image_2": "images/p078_2.png",
+    "caption": "some houses are built on the left side of the scene."
+  },
+  {
+    "item_id": "item_0315",
+    "image_1": "images/p016_1.png",
+    "image_2": "images/p016_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0316",
+    "image_1": "images/p055_1.png",
+    "image_2": "images/p055_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0317",
+    "image_1": "images/p053_1.png",
+    "image_2": "images/p053_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0318",
+    "image_1": "images/p026_1.png",
+    "image_2": "images/p026_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0319",
+    "image_1": "images/p096_1.png",
+    "image_2": "images/p096_2.png",
+    "caption": "a row of houses is removed at the end of the road."
+  },
+  {
+    "item_id": "item_0320",
+    "image_1": "images/p087_1.png",
+    "image_2": "images/p087_2.png",
+    "caption": "a building appears in the middle of the scene"
+  },
+  {
+    "item_id": "item_0321",
+    "image_1": "images/p069_1.png",
+    "image_2": "images/p069_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0322",
+    "image_1": "images/p019_1.png",
+    "image_2": "images/p019_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0323",
+    "image_1": "images/p048_1.png",
+    "image_2": "images/p048_2.png",
+    "caption": "a building is removed on the bareland near the road."
+  },
+  {
+    "item_id": "item_0324",
+    "image_1": "images/p057_1.png",
+    "image_2": "images/p057_2.png",
+    "caption": "a building is built on the bareland"
+  },
+  {
+    "item_id": "item_0325",
+    "image_1": "images/p050_1.png",
+    "image_2": "images/p050_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0326",
+    "image_1": "images/p034_1.png",
+    "image_2": "images/p034_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0327",
+    "image_1": "images/p027_1.png",
+    "image_2": "images/p027_2.png",
+    "caption": "a road is built on the left side of the scene"
+  },
+  {
+    "item_id": "item_0328",
+    "image_1": "images/p076_1.png",
+    "image_2": "images/p076_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0329",
+    "image_1": "images/p081_1.png",
+    "image_2": "images/p081_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0330",
+    "image_1": "images/p085_1.png",
+    "image_2": "images/p085_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0331",
+    "image_1": "images/p008_1.png",
+    "image_2": "images/p008_2.png",
+    "caption": "some buildings appear in the forest"
+  },
+  {
+    "item_id": "item_0332",
+    "image_1": "images/p013_1.png",
+    "image_2": "images/p013_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0333",
+    "image_1": "images/p086_1.png",
+    "image_2": "images/p086_2.png",
+    "caption": "a building is built on the left side."
+  },
+  {
+    "item_id": "item_0334",
+    "image_1": "images/p070_1.png",
+    "image_2": "images/p070_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0335",
+    "image_1": "images/p067_1.png",
+    "image_2": "images/p067_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0336",
+    "image_1": "images/p060_1.png",
+    "image_2": "images/p060_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0337",
+    "image_1": "images/p075_1.png",
+    "image_2": "images/p075_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0338",
+    "image_1": "images/p024_1.png",
+    "image_2": "images/p024_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0339",
+    "image_1": "images/p063_1.png",
+    "image_2": "images/p063_2.png",
+    "caption": "some houses are built on the bareland"
+  },
+  {
+    "item_id": "item_0340",
+    "image_1": "images/p046_1.png",
+    "image_2": "images/p046_2.png",
+    "caption": "a building is built on the left side."
+  },
+  {
+    "item_id": "item_0341",
+    "image_1": "images/p029_1.png",
+    "image_2": "images/p029_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0342",
+    "image_1": "images/p038_1.png",
+    "image_2": "images/p038_2.png",
+    "caption": "a house is removed by the road."
+  },
+  {
+    "item_id": "item_0343",
+    "image_1": "images/p062_1.png",
+    "image_2": "images/p062_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0344",
+    "image_1": "images/p068_1.png",
+    "image_2": "images/p068_2.png",
+    "caption": "a house has been removed in the residential area"
+  },
+  {
+    "item_id": "item_0345",
+    "image_1": "images/p062_1.png",
+    "image_2": "images/p062_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0346",
+    "image_1": "images/p003_1.png",
+    "image_2": "images/p003_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0347",
+    "image_1": "images/p036_1.png",
+    "image_2": "images/p036_2.png",
+    "caption": "a road with many houses disappears at the bottom right corner of the scene."
+  },
+  {
+    "item_id": "item_0348",
+    "image_1": "images/p031_1.png",
+    "image_2": "images/p031_2.png",
+    "caption": "a road disappears in the bareland."
+  },
+  {
+    "item_id": "item_0349",
+    "image_1": "images/p099_1.png",
+    "image_2": "images/p099_2.png",
+    "caption": "many houses are removed along the road"
+  },
+  {
+    "item_id": "item_0350",
+    "image_1": "images/p023_1.png",
+    "image_2": "images/p023_2.png",
+    "caption": "the two scenes seem identical."
+  },
+  {
+    "item_id": "item_0351",
+    "image_1": "images/p072_1.png",
+    "image_2": "images/p072_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0352",
+    "image_1": "images/p098_1.png",
+    "image_2": "images/p098_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0353",
+    "image_1": "images/p073_1.png",
+    "image_2": "images/p073_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0354",
+    "image_1": "images/p045_1.png",
+    "image_2": "images/p045_2.png",
+    "caption": "a building is built"
+  },
+  {
+    "item_id": "item_0355",
+    "image_1": "images/p092_1.png",
+    "image_2": "images/p092_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0356",
+    "image_1": "images/p082_1.png",
+    "image_2": "images/p082_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0357",
+    "image_1": "images/p044_1.png",
+    "image_2": "images/p044_2.png",
+    "caption": "a row of houses is removed on both sides of the road."
+  },
+  {
+    "item_id": "item_0358",
+    "image_1": "images/p049_1.png",
+    "image_2": "images/p049_2.png",
+    "caption": "a building with a parking lot is removed at the crossroad."
+  },
+  {
+    "item_id": "item_0359",
+    "image_1": "images/p053_1.png",
+    "image_2": "images/p053_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0360",
+    "image_1": "images/p099_1.png",
+    "image_2": "images/p099_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0361",
+    "image_1": "images/p061_1.png",
+    "image_2": "images/p061_2.png",
+    "caption": "many houses are removed along the road."
+  },
+  {
+    "item_id": "item_0362",
+    "image_1": "images/p012_1.png",
+    "image_2": "images/p012_2.png",
+    "caption": "a building in the middle of the scene"
+  },
+  {
+    "item_id": "item_0363",
+    "image_1": "images/p060_1.png",
+    "image_2": "images/p060_2.png",
+    "caption": "many houses are removed along the roads"
+  },
+  {
+    "item_id": "item_0364",
+    "image_1": "images/p097_1.png",
+    "image_2": "images/p097_2.png",
+    "caption": "a building is built at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0365",
+    "image_1": "images/p087_1.png",
+    "image_2": "images/p087_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0366",
+    "image_1": "images/p065_1.png",
+    "image_2": "images/p065_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0367",
+    "image_1": "images/p054_1.png",
+    "image_2": "images/p054_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0368",
+    "image_1": "images/p030_1.png",
+    "image_2": "images/p030_2.png",
+    "caption": "some houses are removed on the right side of the scene."
+  },
+  {
+    "item_id": "item_0369",
+    "image_1": "images/p085_1.png",
+    "image_2": "images/p085_2.png",
+    "caption": "two villas are removed at the top"
+  },
+  {
+    "item_id": "item_0370",
+    "image_1": "images/p038_1.png",
+    "image_2": "images/p038_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0371",
+    "image_1": "images/p017_1.png",
+    "image_2": "images/p017_2.png",
+    "caption": "some houses are built on the bareland"
+  },
+  {
+    "item_id": "item_0372",
+    "image_1": "images/p075_1.png",
+    "image_2": "images/p075_2.png",
+    "caption": "some houses are built on the bareland"
+  },
+  {
+    "item_id": "item_0373",
+    "image_1": "images/p061_1.png",
+    "image_2": "images/p061_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0374",
+    "image_1": "images/p039_1.png",
+    "image_2": "images/p039_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0375",
+    "image_1": "images/p096_1.png",
+    "image_2": "images/p096_2.png",
+    "caption": "a row of houses is removed along the road"
+  },
+  {
+    "item_id": "item_0376",
+    "image_1": "images/p002_1.png",
+    "image_2": "images/p002_2.png",
+    "caption": "some houses are removed at the edge of the forest"
+  },
+  {
+    "item_id": "item_0377",
+    "image_1": "images/p026_1.png",
+    "image_2": "images/p026_2.png",
+    "caption": "a row of houses is removed in the woods"
+  },
+  {
+    "item_id": "item_0378",
+    "image_1": "images/p079_1.png",
+    "image_2": "images/p079_2.png",
+    "caption": "a building is built at the bottom right corner of the scene"
+  },
+  {
+    "item_id": "item_0379",
+    "image_1": "images/p008_1.png",
+    "image_2": "images/p008_2.png",
+    "caption": "some houses are removed in the forest."
+  },
+  {
+    "item_id": "item_0380",
+    "image_1": "images/p071_1.png",
+    "image_2": "images/p071_2.png",
+    "caption": "many houses are removed along the roads in the open space"
+  },
+  {
+    "item_id": "item_0381",
+    "image_1": "images/p097_1.png",
+    "image_2": "images/p097_2.png",
+    "caption": "a building is built at the bottom corner of the scene"
+  },
+  {
+    "item_id": "item_0382",
+    "image_1": "images/p067_1.png",
+    "image_2": "images/p067_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0383",
+    "image_1": "images/p073_1.png",
+    "image_2": "images/p073_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0384",
+    "image_1": "images/p001_1.png",
+    "image_2": "images/p001_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0385",
+    "image_1": "images/p068_1.png",
+    "image_2": "images/p068_2.png",
+    "caption": "a house is removed in the upper right corner of the scene."
+  },
+  {
+    "item_id": "item_0386",
+    "image_1": "images/p046_1.png",
+    "image_2": "images/p046_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0387",
+    "image_1": "images/p079_1.png",
+    "image_2": "images/p079_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0388",
+    "image_1": "images/p080_1.png",
+    "image_2": "images/p080_2.png",
+    "caption": "some houses are built on the bareland"
+  },
+  {
+    "item_id": "item_0389",
+    "image_1": "images/p040_1.png",
+    "image_2": "images/p040_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0390",
+    "image_1": "images/p025_1.png",
+    "image_2": "images/p025_2.png",
+    "caption": "the scene is the same as before."
+  },
+  {
+    "item_id": "item_0391",
+    "image_1": "images/p002_1.png",
+    "image_2": "images/p002_2.png",
+    "caption": "some houses are removed in the woods in the top right corner of the scene."
+  },
+  {
+    "item_id": "item_0392",
+    "image_1": "images/p085_1.png",
+    "image_2": "images/p085_2.png",
+    "caption": "a house is built at the bottom right corner of the scene."
+  },
+  {
+    "item_id": "item_0393",
+    "image_1": "images/p021_1.png",
+    "image_2": "images/p021_2.png",
+    "caption": "a building disappears on the bareland"
+  },
+  {
+    "item_id": "item_0394",
+    "image_1": "images/p034_1.png",
+    "image_2": "images/p034_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0395",
+    "image_1": "images/p047_1.png",
+    "image_2": "images/p047_2.png",
+    "caption": "some houses are removed on the left side of the scene."
+  },
+  {
+    "item_id": "item_0396",
+    "image_1": "images/p048_1.png",
+    "image_2": "images/p048_2.png",
+    "caption": "a building is built in the middle of the scene"
+  },
+  {
+    "item_id": "item_0397",
+    "image_1": "images/p004_1.png",
+    "image_2": "images/p004_2.png",
+    "caption": "the scene is the same as before"
+  },
+  {
+    "item_id": "item_0398",
+    "image_1": "images/p091_1.png",
+    "image_2": "images/p091_2.png",
+    "caption": "some houses are removed along the road."
+  },
+  {
+    "item_id": "item_0399",
+    "image_1": "images/p023_1.png",
+    "image_2": "images/p023_2.png",
+    "caption": "some houses are removed along the road"
+  },
+  {
+    "item_id": "item_0400",
+    "image_1": "images/p046_1.png",
+    "image_2": "images/p046_2.png",
+    "caption": "some buildings with a parking lot are removed in the open space."
+  }
+]

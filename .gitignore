@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/annotator_A_site/
+!/annotator_B_site/
+!/annotator_A_site/**
+!/annotator_B_site/**
